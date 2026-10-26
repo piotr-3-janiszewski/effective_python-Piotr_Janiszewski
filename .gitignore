@@ -102,3 +102,5 @@ ENV/
 
 old/*
 dicella/*
+
+./lab01.jpynb
